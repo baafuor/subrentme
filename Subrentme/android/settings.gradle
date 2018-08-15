@@ -1,0 +1,3 @@
+rootProject.name = 'Subrentme'
+
+include ':app'
